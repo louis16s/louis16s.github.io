@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/category/daily/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Sep 2022 06:22:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 09:20:33 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -57,7 +57,7 @@
 			</item>
 		<item>
 		<title>校运会后记</title>
-		<link>/index.php/2021/10/19/%e6%a0%a1%e8%bf%90%e4%bc%9a%e5%90%8e%e8%ae%b0/</link>
+		<link>/index.php/2021/10/19/schoolsportmeeting/</link>
 		
 		<dc:creator><![CDATA[louis16s]]></dc:creator>
 		<pubDate>Tue, 19 Oct 2021 12:37:00 +0000</pubDate>

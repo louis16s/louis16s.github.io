@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/category/test/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 27 May 2023 12:28:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2023 09:20:13 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>mpy固件编译成功</title>
-		<link>/index.php/2023/01/17/mpy%e5%9b%ba%e4%bb%b6%e7%bc%96%e8%af%91%e6%88%90%e5%8a%9f/</link>
+		<link>/index.php/2023/01/17/mpy_software/</link>
 		
 		<dc:creator><![CDATA[louis16s]]></dc:creator>
 		<pubDate>Mon, 16 Jan 2023 16:19:48 +0000</pubDate>
@@ -254,8 +254,8 @@ make</code></pre>
 			</item>
 		<item>
 		<title>esp32-c3收藏家</title>
-		<link>/index.php/2023/01/09/esp32-c3%e6%94%b6%e8%97%8f%e5%ae%b6/</link>
-					<comments>/index.php/2023/01/09/esp32-c3%e6%94%b6%e8%97%8f%e5%ae%b6/#respond</comments>
+		<link>/index.php/2023/01/09/esp32-c3_lover/</link>
+					<comments>/index.php/2023/01/09/esp32-c3_lover/#respond</comments>
 		
 		<dc:creator><![CDATA[louis16s]]></dc:creator>
 		<pubDate>Sun, 08 Jan 2023 19:01:13 +0000</pubDate>
@@ -279,7 +279,7 @@ make</code></pre>
 <figure class="wp-block-image size-large"><img decoding="async" src="http://192.168.5.154:23333/wp-content/uploads/2023/01/1-1-1024x964.jpg" alt="" class="wp-image-655"/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/01/09/esp32-c3%e6%94%b6%e8%97%8f%e5%ae%b6/feed/</wfw:commentRss>
+					<wfw:commentRss>/index.php/2023/01/09/esp32-c3_lover/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
