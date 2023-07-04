@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>生活 &#8211; louis16s</title>
+	<atom:link href="/index.php/category/daily/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 04 Jul 2023 09:20:33 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/001.ico</url>
+	<title>生活 &#8211; louis16s</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>o GDOU</title>
+		<link>/index.php/2022/09/12/o-gdou/</link>
+					<comments>/index.php/2022/09/12/o-gdou/#respond</comments>
+		
+		<dc:creator><![CDATA[louis16s]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 06:22:56 +0000</pubDate>
+				<category><![CDATA[生活]]></category>
+		<guid isPermaLink="false">http://blog.louis16s.club/?p=573</guid>
+
+					<description><![CDATA[鼠鼠也是一只大学生啦]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group is-layout-constrained">
+<div class="wp-block-columns is-layout-flex wp-container-2">
+<div class="wp-block-column is-layout-flow" style="flex-basis:100%"></div>
+</div>
+</div>
+
+
+
+<p>鼠鼠也是一只大学生啦</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2022/09/12/o-gdou/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>校运会后记</title>
+		<link>/index.php/2021/10/19/schoolsportmeeting/</link>
+		
+		<dc:creator><![CDATA[louis16s]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2021 12:37:00 +0000</pubDate>
+				<category><![CDATA[生活]]></category>
+		<guid isPermaLink="false">https://www.louis16s.top/?p=459</guid>
+
+					<description><![CDATA[时过境迁，时至今日，约莫有一年了。 一切仿佛就发生在昨天，当初的骤然离场，今天的恍如隔世，无不提醒着我，一年了 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>时过境迁，时至今日，约莫有一年了。</p>
+
+
+
+<p>一切仿佛就发生在昨天，当初的骤然离场，今天的恍如隔世，无不提醒着我，一年了。</p>
+
+
+
+<p>Everything all right?</p>
+
+
+
+<p>那是阳光明媚的一天，空气里洋溢着轻松，愉快，墙边那小花小草，沐浴在阳光里，唯有寒风拂过的时候，才猛然想起冬天快要到来。</p>
+
+
+
+<p>主席台下，方阵里，有你。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
