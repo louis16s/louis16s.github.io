@@ -1,2 +1,2 @@
 # louis16s.github.io
-## blog backup
+主要目的：`blog backup`
